@@ -1,5 +1,10 @@
 # Personal Profile Website
 
+## Activity 2
+
+This project demonstrates the use of GitHub remote repositories,
+fetch, pull, and feature branches using Git.
+
 Name: Darwin Dela Cruz
 
 Project Title: Personal Profile Website
